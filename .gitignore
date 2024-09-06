@@ -1,0 +1,62 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Logs
+logs/
+*.log
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Build output
+dist/
+build/
+
+# Dependency directories
+node_modules/
+bower_components/
+
+# Coverage directory used by testing tools
+coverage/
+
+# Temporary files and folders
+tmp/
+temp/
+*.tmp
+*.swp
+
+# MacOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+
+# Python specific
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+env/
+venv/
+
+# Java specific
+target/
+*.class
+
+# JavaScript specific
+*.min.js
